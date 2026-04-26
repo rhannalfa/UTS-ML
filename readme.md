@@ -94,8 +94,8 @@ Pengujian model menggunakan *Testing Set* dengan metrik: **Akurasi**, **Precisio
 
 **1. Clone repositori**
 ```bash
-git clone https://github.com/username-anda/nama-repo-anda.git
-cd nama-repo-anda
+git clone https://github.com/rhannalfa/UTS-ML.git
+cd UTS-ML
 ```
 
 **2. Instalasi dependensi**
@@ -116,4 +116,4 @@ Buka `klasifikasi.ipynb` di VS Code, pilih kernel `.venv` atau Python global, la
 | **Nama** | Raihan Alfarizi |
 | **Tugas** | Ujian Tengah Semester — Kecerdasan Buatan |
 | **Tanggal** | April 2026 |
-| **GitHub** | [@username-anda](https://github.com/username-anda) |
+| **GitHub** | [@username-anda](https://github.com/rhannalfa) |
