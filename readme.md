@@ -116,4 +116,4 @@ Buka `klasifikasi.ipynb` di VS Code, pilih kernel `.venv` atau Python global, la
 | **Nama** | Raihan Alfarizi |
 | **Tugas** | Ujian Tengah Semester — Kecerdasan Buatan |
 | **Tanggal** | April 2026 |
-| **GitHub** | [@username-anda](https://github.com/rhannalfa) |
+| **GitHub** | [@rhannalfa](https://github.com/rhannalfa) |
